@@ -1,5 +1,1 @@
-usuarios
-admin admin
-marco admin
-profe profe
-Deben tener los roles "ver" o "modificar"
+Los usuarios deben tener los roles "ver" o "modificar"
