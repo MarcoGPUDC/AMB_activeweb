@@ -1,6 +1,7 @@
 BEGIN;
 
 CREATE TABLE usuario(
+    id SERIAL NOT NULL,
     Nombre text NOT NULL,
     Apellido text NOT NULL,
     Alias text,
